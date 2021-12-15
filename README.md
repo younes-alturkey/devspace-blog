@@ -1,9 +1,9 @@
-<a align="center" href="https://dj-events-frontend-henna.vercel.app/">Live Demo</a>
+<a align="center" href="https://ya-devspace-blog.vercel.app/">Live Demo</a>
 
 <br/>
 
 <p>
-  <a href="https://dj-events-frontend-henna.vercel.app/"><img src="https://github.com/younes-alturkey/devspace-blog/blob/main/demo.gif" alt="demo"/></a>
+  <a href="https://ya-devspace-blog.vercel.app/"><img src="https://github.com/younes-alturkey/devspace-blog/blob/main/demo.gif" alt="demo"/></a>
 </p>
 
 ## Developer - المطور
