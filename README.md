@@ -1,4 +1,4 @@
-<a align="center" href="https://ya-devspace-blog.vercel.app/">Live Demo</a>
+<a align="center" href="https://ya-devspace-blog.vercel.app/">Demo</a>
 
 <br/>
 
